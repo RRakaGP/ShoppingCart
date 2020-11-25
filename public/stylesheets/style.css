@@ -1,0 +1,12 @@
+.price{
+  font-weight: bold;
+}
+.d{
+  height: auto;
+  overflow: hidden;
+  white-space:nowrap;
+}
+.h{
+  image-rendering: optimizeSpeed;
+  max-height: max-content;
+}
